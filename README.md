@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhumi%20Bhavsar%20—%20Portfolio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Science%20%7C%20ML%20Developer%20%7C%20Pune&descAlignY=58&descAlign=50" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="180" viewBox="0 0 1200 180">
+  <defs>
+    <linearGradient id="pg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0a1a"/>
+      <stop offset="50%" style="stop-color:#0d0d2e"/>
+      <stop offset="100%" style="stop-color:#0a0a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#pg)"/>
+  <polygon points="0,120 1200,60 1200,180 0,180" fill="#6C63FF" opacity="0.2"/>
+  <polygon points="0,140 1200,90 1200,180 0,180" fill="#6C63FF" opacity="0.1"/>
+  <text x="600" y="90" font-family="Arial" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle">Bhumi Bhavsar — Portfolio</text>
+  <text x="600" y="130" font-family="Arial" font-size="20" fill="#a0a0ff" text-anchor="middle">AI &amp; Data Science | ML Developer | Pune</text>
+</svg>
 
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -9,15 +22,7 @@
 
 **Personal portfolio website showcasing my AI & Data Science projects, skills, and achievements.**
 
-🔗 **[Live Portfolio → Click Here](https://bhumibhavsar1830-cloud.github.io/portfolio)**
-
 </div>
-
----
-
-## 🖥️ Preview
-
-> Open the live link to see the full animated portfolio!
 
 ---
 
@@ -70,6 +75,23 @@ portfolio/
 
 ---
 
+## 🌐 How to Enable Live Portfolio
+
+**GitHub Pages se free hosting:**
+1. Repo → **Settings**
+2. Left side → **Pages**
+3. Source → **Deploy from branch**
+4. Branch → **main** → **/ (root)**
+5. **Save** click karo
+6. 2-3 minutes baad live ho jayega!
+
+Live URL:
+```
+https://bhumibhavsar1830-cloud.github.io/portfolio
+```
+
+---
+
 ## 📄 License
 
 MIT License — open source and free to use.
@@ -81,6 +103,18 @@ MIT License — open source and free to use.
 ![Made with HTML](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Live-00E87A?style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20Connect%20%26%20Collaborate&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100" viewBox="0 0 1200 100">
+  <defs>
+    <linearGradient id="fg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0a1a"/>
+      <stop offset="50%" style="stop-color:#0d0d2e"/>
+      <stop offset="100%" style="stop-color:#0a0a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#fg)"/>
+  <path d="M0,40 C300,80 600,0 900,40 C1050,60 1150,20 1200,40 L1200,100 L0,100 Z" fill="#6C63FF" opacity="0.2"/>
+  <path d="M0,60 C200,20 500,70 800,50 C1000,35 1100,65 1200,55 L1200,100 L0,100 Z" fill="#6C63FF" opacity="0.15"/>
+  <text x="600" y="70" font-family="Arial" font-size="16" fill="#a0a0ff" text-anchor="middle">Let's Connect &amp; Collaborate</text>
+</svg>
 
 </div>
