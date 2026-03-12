@@ -80,17 +80,6 @@ portfolio/
 - **Google Fonts** — Space Mono + Outfit
 
 ---
-
-## 🌐 How to Enable Live Portfolio
-
-**GitHub Pages se free hosting:**
-1. Repo → **Settings**
-2. Left side → **Pages**
-3. Source → **Deploy from branch**
-4. Branch → **main** → **/ (root)**
-5. **Save** click karo
-6. 2-3 minutes baad live ho jayega!
-
 Live URL:
 ```
 https://bhumibhavsar1830-cloud.github.io/portfolio
