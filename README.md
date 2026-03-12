@@ -15,12 +15,18 @@
   <text x="600" y="130" font-family="Arial" font-size="20" fill="#a0a0ff" text-anchor="middle">AI &amp; Data Science | ML Developer | Pune</text>
 </svg>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00E87A&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bhumi+Bhavsar!;AI+%26+Data+Science+Student+🎓;Machine+Learning+Developer+🤖;Building+AI+for+Real+World+Problems+🌍;SIH+2025+Shortlisted+🏆)](https://git.io/typing-svg)
+
+<br/>
+
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![MIT License](https://img.shields.io/badge/License-MIT-00E87A?style=for-the-badge)](LICENSE)
 
 **Personal portfolio website showcasing my AI & Data Science projects, skills, and achievements.**
+
+🔗 **[Live Portfolio → Click Here](https://bhumibhavsar1830-cloud.github.io/portfolio)**
 
 </div>
 
